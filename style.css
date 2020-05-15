@@ -9,3 +9,8 @@ body {
     width: 100px;
     height: 100px;
 }
+.div-test {
+    background-color: white;
+    font-size: 30px;
+    color: greenyellow;
+}

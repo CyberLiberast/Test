@@ -4,3 +4,8 @@ h1 {
 body {
     background-color: purple;
 }
+.test {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
